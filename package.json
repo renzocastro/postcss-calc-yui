@@ -1,0 +1,28 @@
+{
+  "name": "postcss-calc-yui",
+  "version": "1.0.0",
+  "description": "PostCSS plugin for replace calc(a + b) to calc(a - -b). It's help to solve a problem with YUI minify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "postcss-calc-yui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renzocastro/postcss-calc-yui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renzocastro/postcss-calc-yui/issues"
+  },
+  "homepage": "https://github.com/renzocastro/postcss-calc-yui",
+  "author": "Renzo Castro <renzo.vista@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^6.0.16"
+  }
+}
