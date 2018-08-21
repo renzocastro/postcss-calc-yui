@@ -1,6 +1,6 @@
 {
   "name": "postcss-calc-yui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PostCSS plugin for replace calc(a + b) to calc(a - -b). It's help to solve a problem with YUI minify.",
   "main": "index.js",
   "scripts": {
