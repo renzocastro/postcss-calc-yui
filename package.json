@@ -22,8 +22,8 @@
   "homepage": "https://github.com/renzocastro/postcss-calc-yui",
   "author": "Renzo Castro <renzo.vista@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "postcss": "^7.0.2"
-  }
+  },
+  "devDependencies": {}
 }
